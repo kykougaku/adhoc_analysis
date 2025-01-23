@@ -1,0 +1,12 @@
+785
+nd0pos
+
+1.26mW(no polar)
+
+polarization on thorlab GTH10M
+
+0deg, 1.12mW
+22.5deg, 0.92mW
+45deg, 0.65mW
+67.5deg, 0.24mW
+90deg, 0.01mW
